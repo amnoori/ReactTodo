@@ -1,6 +1,6 @@
 var expect = require('expect');
 
-describe('App',()=> {
+describe('App', () => {
   it('should properly run tests', () => {
     expect(1).toBe(1);
   });
